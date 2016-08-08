@@ -1,0 +1,30 @@
+_repo: Creative-Impulse-in-IndustryA-Proposition-for-Educators_12594
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marot, Helen
+    birthdate: 1865
+    deathdate: 1940
+    gutenberg_agent_id: '4442'
+    url: http://www.gutenberg.org/2009/agents/4442
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12594'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Business and education -- United States'
+- !lcsh 'Technical education -- United States'
+- !lcc 'T'
+- !lcsh 'Working class -- Education -- United States'
+- !lcc 'LC'
+- GITenberg
+tableOfContents: Production and creative effort -- Adapting people to industry. The
+  American way -- Adapting people to industry. The German way -- Educational industry
+  and associated enterprise.
+title: 'Creative Impulse in Industry: A Proposition for Educators'
+url: http://www.gutenberg.org/ebooks/12594
